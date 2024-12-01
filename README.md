@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > ##### You will just need python ;)
 
->To download the repo just type it on your terminal using git
+>☁Download
 
 *git clone https://github.com/thiagodemorais87/projeto_Api-BackEnd*
 
