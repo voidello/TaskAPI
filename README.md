@@ -3,6 +3,9 @@
 
   this is an simple API made specially for verifying and logging in registered users
 
+
+  ![Screenshot_4](https://github.com/user-attachments/assets/9e4cc517-2e39-4781-89aa-6a9724c14c0b)
+
   ### The objective of the API is simply to enable registered users to log in to the app where they have valid credentials.
   * after logging in the user will have all the benefits chosen by the dev.
   * by using this API you can manage and look out for all the users non-sensitive content.
