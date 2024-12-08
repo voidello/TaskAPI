@@ -22,7 +22,7 @@
 > + npm
 
 > <h3>☁Download</h3>
-paste is your terminal:
+paste this in your terminal:
 ```cs
 git clone https://github.com/voidello/projeto_Api-BackEnd
 ```
